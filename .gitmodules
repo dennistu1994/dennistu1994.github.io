@@ -1,0 +1,3 @@
+[submodule "static_files"]
+	path = static_files
+	url = https://github.com/dennistu1994/static_files.git

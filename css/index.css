@@ -1,0 +1,31 @@
+html {
+    font-size: 21px;
+}
+
+#navbar {
+    height: 60px;
+}
+
+#main {
+    max-width: 960px;
+    margin: auto;
+    padding: 0 10px;
+    font-family: 'Share Tech Mono', monospace;
+}
+
+#name {
+    font-size: 36px;
+}
+
+#menu {
+    margin-top: 20px;
+}
+
+#menu a {
+    color: #333;
+}
+
+#email-link {
+    vertical-align: middle;
+    margin-right:5px;
+}
