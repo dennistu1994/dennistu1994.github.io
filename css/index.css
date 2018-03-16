@@ -25,6 +25,10 @@ html {
     color: #333;
 }
 
+#menu div {
+    margin-top: 5px;
+}
+
 #email-link {
     vertical-align: middle;
     margin-right:5px;
